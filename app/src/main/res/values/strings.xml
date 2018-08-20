@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Who\'s watching you ?</string>
+    <string name="main_settings">Settings</string>
+    <string name="main_dialog_select_permissions">Select permissions to show</string>
+    <string name="all">All</string>
+
+    <string name="permission_camera">Camera</string>
+    <string name="permission_record_audio">Microphone</string>
+    <string name="permission_send_sms">Send SMS</string>
+    <string name="permission_read_sms">Read SMS</string>
+    <string name="permission_receive_sms">Receive SMS</string>
+    <string name="permission_receive_mms">Receive MMS</string>
+    <string name="permission_read_calendar">Read calendar</string>
+    <string name="permission_write_calendar">Write calendar</string>
+    <string name="permission_read_contact">Read contact</string>
+    <string name="permission_write_contact">Write contact</string>
+    <string name="permission_fine_location">Fine location</string>
+    <string name="permission_coarse_location">Coarse location</string>
+    <string name="permission_body_sensors">Body sensors</string>
+    <string name="permission_read_phone_state">Phone state</string>
+    <string name="permission_read_phone_numbers">Read phone numbers</string>
+    <string name="permission_call_phone">Call</string>
+    <string name="permission_answer_phone_calls">Answer phone calls</string>
+    <string name="permission_add_voicemail">Add voicemail</string>
+    <string name="permission_use_sip">Use SIP</string>
 </resources>
