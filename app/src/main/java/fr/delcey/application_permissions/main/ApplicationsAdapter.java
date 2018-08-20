@@ -1,4 +1,4 @@
-package fr.delcey.whoswatchingyou.main;
+package fr.delcey.application_permissions.main;
 
 import android.graphics.PorterDuff;
 import android.graphics.PorterDuffColorFilter;
@@ -11,7 +11,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.LinearLayout.LayoutParams;
 import android.widget.TextView;
-import fr.delcey.whoswatchingyou.R;
+import fr.delcey.application_permissions.R;
 import java.util.List;
 
 /**

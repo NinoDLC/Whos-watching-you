@@ -1,4 +1,4 @@
-package fr.delcey.whoswatchingyou.select_permissions;
+package fr.delcey.application_permissions.select_permissions;
 
 import android.content.Context;
 import java.util.Collection;

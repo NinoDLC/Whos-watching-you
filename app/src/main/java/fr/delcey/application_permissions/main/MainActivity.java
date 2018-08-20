@@ -1,4 +1,4 @@
-package fr.delcey.whoswatchingyou.main;
+package fr.delcey.application_permissions.main;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -10,9 +10,9 @@ import android.support.v7.widget.RecyclerView;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
-import fr.delcey.whoswatchingyou.R;
-import fr.delcey.whoswatchingyou.select_permissions.PermissionsSelectorDialog;
-import fr.delcey.whoswatchingyou.select_permissions.PermissionsSelectorDialog.Listener;
+import fr.delcey.application_permissions.R;
+import fr.delcey.application_permissions.select_permissions.PermissionsSelectorDialog;
+import fr.delcey.application_permissions.select_permissions.PermissionsSelectorDialog.Listener;
 
 public class MainActivity extends AppCompatActivity implements ApplicationsAdapter.Listener, Listener {
     

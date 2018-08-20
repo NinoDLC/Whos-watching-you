@@ -1,4 +1,4 @@
-package fr.delcey.whoswatchingyou.select_permissions;
+package fr.delcey.application_permissions.select_permissions;
 
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
@@ -12,8 +12,8 @@ import android.widget.CompoundButton;
 import android.widget.CompoundButton.OnCheckedChangeListener;
 import android.widget.ImageView;
 import android.widget.TextView;
-import fr.delcey.whoswatchingyou.R;
-import fr.delcey.whoswatchingyou.main.Permission;
+import fr.delcey.application_permissions.R;
+import fr.delcey.application_permissions.main.Permission;
 import java.util.List;
 
 /**

@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "fr.delcey.whoswatchingyou"
+        applicationId "fr.delcey.application_permissions"
         minSdkVersion 16
         targetSdkVersion 27
         versionCode 1

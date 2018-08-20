@@ -1,4 +1,4 @@
-package fr.delcey.whoswatchingyou.main;
+package fr.delcey.application_permissions.main;
 
 import android.Manifest.permission;
 import android.content.Context;
@@ -9,8 +9,8 @@ import android.os.Build.VERSION;
 import android.os.Build.VERSION_CODES;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
-import fr.delcey.whoswatchingyou.R;
-import fr.delcey.whoswatchingyou.select_permissions.SelectedPermissionsSharedPreferences;
+import fr.delcey.application_permissions.R;
+import fr.delcey.application_permissions.select_permissions.SelectedPermissionsSharedPreferences;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;

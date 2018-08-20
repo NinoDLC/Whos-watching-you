@@ -1,4 +1,4 @@
-package fr.delcey.whoswatchingyou.select_permissions;
+package fr.delcey.application_permissions.select_permissions;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -16,9 +16,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import fr.delcey.whoswatchingyou.R;
-import fr.delcey.whoswatchingyou.main.ApplicationPermissionBusinessService;
-import fr.delcey.whoswatchingyou.main.Permission;
+import fr.delcey.application_permissions.R;
+import fr.delcey.application_permissions.main.ApplicationPermissionBusinessService;
+import fr.delcey.application_permissions.main.Permission;
 import java.util.List;
 
 /**

@@ -1,4 +1,4 @@
-package fr.delcey.whoswatchingyou.main;
+package fr.delcey.application_permissions.main;
 
 import android.support.annotation.DrawableRes;
 import android.support.annotation.NonNull;
